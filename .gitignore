@@ -1,0 +1,15 @@
+# Wally
+Packages/
+DevPackages/
+ServerPackages/
+
+# Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Editor
+.vscode/
+.idea/
+.DS_Store

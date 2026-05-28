@@ -1,0 +1,11 @@
+[package]
+name = "rumin/datastore-safe"
+version = "1.0.0"
+license = "MIT"
+authors = ["rumin"]
+description = "Production-grade DataStore wrapper with session locking, retries, reconciliation, and migrations"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+include = ["src/**", "default.project.json", "wally.toml", "README.md", "LICENSE"]
+
+[dependencies]
